@@ -1,4 +1,4 @@
-# TimeSeries-Forecasting (External R scripts and data for a paper submitted to the International Journal of Forecasting).
+# Time-series prediction for blood demand (External R scripts and data for a paper submitted to the International Journal of Forecasting).
 
 Topic: Machine Learning Algorithms for Forecasting and Backcasting Blood Demand Data with Missing Values and Outliers: A Study of Tema General Hospital of Ghana.
 
