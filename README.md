@@ -17,7 +17,7 @@ Extreme learning machines (ELM) neural networks
 Long short-term memory (LSTM) neural network.
 
 # NB: 
-The non-seasonal ARIMA model was considered as a baseline model for comparison with the ML models. These novel R functions (attached) were respectively developed to implement the six ML time-series models and the non-seasonal ARIMA model via a rolling-origin strategy for model comparison (for both forecast and backcast schemes). The main R script for the study is named `Main_Script_IJF.R` or `Main_Script_IJF.html` (with both .HTML and .R file formats); and the other R scripts were external files sourced in the main script. The empirical data is also attached as `Blood_data_Tema.csv`
+The non-seasonal ARIMA model was considered as a baseline model for comparison with the ML models. These novel R functions (attached) were respectively developed to implement the six ML time-series models and the non-seasonal ARIMA model via a rolling-origin strategy for model comparison (for both forecast and backcast schemes). The main R script for the study is named `Main_Script_IJF.R` or `Main_Script_IJF.html` (with both .html and .R file formats); and the other R scripts were external files sourced in the main script. The R codes were created with the help of other packages (properly refrenced in the main paper) and open-source R libraries Keras and TensorFlow. The empirical data with missing values (which was used for model fitting) is also attached as `Blood_data_Tema.csv`.
 
 # Research gap and Contribution:
 
