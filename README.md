@@ -28,5 +28,5 @@ Forecasters, policymakers and practitioners usually need long time-series data f
 
 # The key contribution of the study was:
 1. To demonstrate the application of some ML algorithms for also backcasting or predicting lost blood demand data of past years.
-2. To establish a baseline comparative study for the predictive performance of ML models for short time-series data with missing values and outliers.
+2. To determine the effect of prediction direction (forecast or backcast) on the predictive performance of ML models for short time-series data with missing values and outliers.
 3. To justify the need for an out-of-sample rolling-origin strategy in comparing existing time-series models' forecasting and backcasting power for short time-series data.
