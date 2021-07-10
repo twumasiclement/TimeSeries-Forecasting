@@ -28,7 +28,7 @@ Forecasters, policymakers and practitioners usually need long time-series data f
 
 # The key contribution of the study was:
 
-1. To demonstrate the application of some ML algorithms for also backcasting lost data of past years or any time-reversible stationary series.
+1. To demonstrate the application of ML algorithms and a classical time-series model for also backcasting lost data of past years or any time-reversible stationary series.
 4. To establish that the direction of prediction (forecasting or backcasting) can affect the predictive performance of ML models given time-series data.
 5. To justify the need for an out-of-sample rolling-origin strategy in comparing existing time-series models' forecasting and backcasting power for short time-series data (with missing values and outliers).
 
